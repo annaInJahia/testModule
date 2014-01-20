@@ -1,4 +1,4 @@
-package org.jahia.modules.mytestmodule.rules
+package org.jahia.modules.testmodulesvc.rules
 
 // list any import classes here.
 import org.jahia.services.content.rules.*

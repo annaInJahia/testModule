@@ -8,11 +8,11 @@
     <version>7.0.0.0-SNAPSHOT</version>
   </parent>
   <groupId>org.jahia.modules</groupId>
-  <artifactId>mytestmodule</artifactId>
+  <artifactId>testmodulesvc</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>bundle</packaging>
-  <name>myTestModule</name>
-  <description>This is the custom module (myTestModule) for running on a Jahia xCM server.</description>
+  <name>testModulesvc</name>
+  <description>This is the custom module (testModulesvc) for running on a Jahia xCM server.</description>
   <scm>
     <connection>scm:git:git@github.com:annaInJahia/testModule.git</connection>
     <developerConnection>scm:git:git@github.com:annaInJahia/testModule.git</developerConnection>
